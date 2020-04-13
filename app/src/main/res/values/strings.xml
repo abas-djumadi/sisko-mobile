@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Absensi</string>
+    <string name="absensi">Sistem Informasi Monitoring Kehadiran Siswa</string>
+    <string name="mulai">Mulai</string>
+    <string name="welcome_message">Selamat datang di SIMKeS</string>
+    <string name="username">Abas Djumadi</string>
+    <string name="profilepicture">profilePicture</string>
+    <string name="nip">123456789</string>
+    <string name="daftar_hadir">Daftar Hadir</string>
+    <string name="jadwal">Jadwal</string>
+    <string name="logo">Logo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data">Tidak ada data</string>
+    <string name="nis">Nis</string>
+    <string name="student_name">Nama Siswa</string>
+</resources>
